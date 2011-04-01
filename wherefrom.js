@@ -14,6 +14,6 @@ javascript:(function(){
     remover.onclick = function(){
         div.parentNode.removeChild(div);
         return false;
-    }
+    };
 
 })();
