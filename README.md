@@ -1,5 +1,5 @@
 # wherefromlet 
-## Simple bookmarklet for tracking the current do referrer
+## Simple bookmarklet for tracking the current document(.)referrer
 #### a.k.a How did you get where you are from where you came from?
 
 > Where hast thou been, my heart? Dost thou hear, lady?  
