@@ -8,4 +8,4 @@
 > I and my sword will earn our chronicle:  
 > There's hope in't yet.  
 
-![It looks like this](/roc/wherefromlet/blob/master/example.png "Example of referrer")
+![It looks like this](https://github.com/roc/wherefromlet/blob/master/example.png?raw=true "Example of referrer")
